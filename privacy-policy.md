@@ -20,7 +20,7 @@ The data is not shared with third parties or used for advertising.
 All data is stored securely and is only accessible to the Bot owner.
 
 4. Data Removal
-You can request removal of your stored data by contacting the Bot owner or using the appropriate Bot command (if available).
+All data saved is user related and none personal, and none extra detail is saved, due to this bot being a moderation bot, removing your data is not an option.
 
 5. Changes
 This policy may be updated. Changes will be reflected here with the effective date.
