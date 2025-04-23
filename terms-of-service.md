@@ -2,7 +2,7 @@
 Effective Date: April 23, 2025
 Last Updated: April 23, 2025
 
-By using this Discord bot (the “Bot”), you agree to the following Terms of Service. If you do not agree with these terms, do not use the Bot.
+By using this Discord bot "Blop", you agree to the following Terms of Service. If you do not agree with these terms, do not use the Bot.
 
 1. Use of the Bot
 You must comply with Discord’s Terms of Service and Community Guidelines at all times.
