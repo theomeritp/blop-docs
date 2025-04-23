@@ -2,7 +2,7 @@
 Effective Date: April 23, 2025
 Last Updated: April 23, 2025
 
-This policy describes what information this Discord Bot (“Bot”) collects, how it is used, and how you can request data removal.
+This policy describes what information this Discord Bot "Blop" collects, how it is used, and how you can request data removal.
 
 1. Data Collected
 The Bot may store the following data:
