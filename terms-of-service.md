@@ -17,7 +17,7 @@ The Bot is provided "as-is" with no guarantees of uptime or support.
 Features may change, be removed, or added without prior notice.
 
 3. Liability
-The Bot owner is not responsible for any misuse of the Bot or any damages resulting from its use.
+The Bot owner and developer team are not responsible for any misuse of the Bot or any damages resulting from its use.
 
 4. Changes
 These Terms may be updated at any time. Continued use of the Bot after changes constitutes acceptance of the new terms.
