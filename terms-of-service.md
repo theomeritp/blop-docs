@@ -9,7 +9,7 @@ You must comply with Discord’s Terms of Service and Community Guidelines at al
 
 The Bot is provided for moderation, utility, and entertainment purposes.
 
-Abuse of the Bot (e.g., spamming commands, attempting to exploit features) may result in a ban from using the Bot.
+Abuse of the Bot (e.g., spamming commands, attempting to exploit features) is strictly against the terms of service and is not allowed.
 
 2. Availability
 The Bot is provided "as-is" with no guarantees of uptime or support.
